@@ -1,6 +1,6 @@
 OSXUniversal
 PlayerPath?
-/Users/rabbit0v0/unity/Puzzle/test1.app
+/Users/rabbit0v0/unity/Puzzle/game.app
 SceneListBegin?
 Assets/Scenes/menu.unity
 Assets/Scenes/SampleScene.unity
@@ -117,6 +117,7 @@ ad9173d3a69d99153f38ed4b62226129 UnityEngine.Networking.dll:UnityEngine.Networki
 9b895dcabbc1faf095c000c32d471fd0 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 5887ef1bc706b22b773d253fd443ceef UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
+393102cecca8b40f3c9ac51d29856661 Assembly-CSharp.dll:.forest
 303ad70ce203ad874efe2965d0fbcff9 Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsEventTracker
 7fb9de8dcf73854b6b328eca1f7a6e6d Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsTracker
 94017dcc9f00fe671ea7dc427b4da011 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset
@@ -164,6 +165,5 @@ c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 3165968ba45c74472d279ba04455fccb Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 393102cecca8b40f3c9ac51d29856661 Assembly-CSharp.dll:.vallege
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
-393102cecca8b40f3c9ac51d29856661 Assembly-CSharp.dll:.water
-393102cecca8b40f3c9ac51d29856661 Assembly-CSharp.dll:.forest
 8c1dd02cab6e5e23841b0e7891f64e89 Assembly-CSharp.dll:.hp
+393102cecca8b40f3c9ac51d29856661 Assembly-CSharp.dll:.water
